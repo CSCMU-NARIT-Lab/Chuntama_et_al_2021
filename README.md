@@ -27,7 +27,7 @@ Model ที่ถูก train แล้ว ถูกจัดเก็บอย
 
 Source test file => model\test.csv.arff สามารถใช้ .arff เพื่อรันใน weka ได้เลย
 
-หากนำ Code หรือ ข้อมูลไปใช้ กรุณาอ้างอิง paper 
+หากนำ Code หรือ ข้อมูลไปใช้ กรุณาอ้างอิง paper :  
 T. Chuntama, C. Suwannajak, P. Techa-Angkoon, B. Panyangam and N. Tanakul, 
 "Classification of Astronomical Objects in the Galaxy M81 using Machine Learning Techniques II. An Application of Clustering in Data Pre-processing," 
 2021 18th International Joint Conference on Computer Science and Software Engineering (JCSSE), 
